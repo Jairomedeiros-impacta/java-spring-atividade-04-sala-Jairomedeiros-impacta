@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "teste de sequencia",
+      "setup": "",
+      "run": "mvn test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
